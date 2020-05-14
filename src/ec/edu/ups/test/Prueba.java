@@ -90,6 +90,7 @@ public class Prueba {
                                             break;
                                         case 7:
                                             controlUsuario.eliminarUsuario();
+                                            out = true;
                                             break;
                                         case 8:
                                             //Si se escoge esta opcion sale del bucle 
