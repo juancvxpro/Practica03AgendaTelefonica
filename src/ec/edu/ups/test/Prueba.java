@@ -37,7 +37,7 @@ public class Prueba {
         int opcion; //Guardaremos la opcion del usuario
         //Se crea menu
         while (!salir) {
-            System.out.println("▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ SISTEMA DE REGISTRO DE USUARIOS Y TELEFONOS ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬");
+            System.out.println("▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Agenda Telefonica ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬");
 
             System.out.println("1. Registrarse ");
             System.out.println("2. Iniciar Sesion");
