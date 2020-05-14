@@ -15,7 +15,7 @@ import java.util.List;
 public interface IUsuarioDao {
    //Métodos CRUD
     public void create(Usuario usuario);
-    public Usuario read(String correo, String contra);
+    public Usuario read(String correo, String contra);//
     public void update(Usuario usuario);
     public void delete(Usuario usuario);   
     public List<Usuario> findAll();

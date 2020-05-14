@@ -80,7 +80,7 @@ public class Usuario {
   
   }
    }
-   public void eliminarDireccion(Telefono telefono){
+   public void eliminarTelefono(Telefono telefono){
     if (telefonos.contains(telefono)){
    int index = telefonos.indexOf(telefono);
      telefonos.remove(index);

@@ -71,11 +71,10 @@ public class ControladorUsuario {
   
     usuario.agregarTelefono(telefono);
     usuarioDao.update(usuario);
+    
     vistaTelefono.verTelefono(telefono);
     }
   
-    
-
     public boolean isLog() {
         return log;
     }
