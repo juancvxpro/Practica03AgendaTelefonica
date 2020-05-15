@@ -61,7 +61,7 @@ en las instrucciones de la práctica.**
  
  ![Foto 2]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/2.jpg)
  
- ![Foto 3]:https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/3.jpg()
+ ![Foto 3]:https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/3.jpg)
  
  ![Foto 4]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/4.jpg)
  
