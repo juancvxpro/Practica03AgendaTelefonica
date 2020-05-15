@@ -71,5 +71,36 @@ en las instrucciones de la práctica.**
  
  ![Foto 7]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/7.jpg)
  
+ **3.	Realizar varios commits en la herramienta GitHub que demuestren el desarrollo de la aplicación desde principio a fin**
+ ![Foto commits]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/commit.jpg)
  
+ **Resultados obtenidos**
+ 
+ *Se desarrollo un sistema de registro de usuarios y teléfonos (Agenda Telefónica) con los conocimientos previos sobre programación orientada a objetos, diagrama de clases y el ultimo tema revisado la arquitectura MVC y DAO.*
+ 
+*Además, se cargó dicho programa a la plataforma GitHub mediante un repositorio creado y con la ayuda de NetBeans IDE.*
+
+**Conclusiones**
+
+*El patrón de diseño MVC y DAO en esta práctica logró que el código quede bien organizado, legible y mantenible, además con este patrón se puede reutilizar código y aumentar la escalabilidad de la práctica. GitHub es una herramienta muy eficiente ya que se puede tener acceso a varios proyectos de varios desarrolladores y colaborar mutuamente. *
+
+**Recomendaciones**
+
+*Para evitar errores de programación siempre hay que tener en cuenta los tipos de datos de las variables, los parámetros de cada método, y tener los requerimientos que debe cumplir el programa de forma más clara y detallada posible.*
+
+*Antes de realizar un commit en GitHub siempre hay que tener en cuenta que se debe realizar un cambio respectivo en el proyecto de NetBeans.*
+
+**Nombre del estudiante**
+
+**JUAN JOSE CORDOVA CALLE**
+
+**Firma del Estudiante**
+
+![Firma]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/firma.jpg)
+
+
+
+
+
+
  
