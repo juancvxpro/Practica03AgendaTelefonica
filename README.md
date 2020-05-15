@@ -55,7 +55,21 @@ en las instrucciones de la práctica.**
  
   ![Prueba]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/test/Prueba.java)
  
+ *Consola*
  
+ ![Foto 1]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/1.jpg)
+ 
+ ![Foto 2]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/2.jpg)
+ 
+ ![Foto 3]:https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/3.jpg()
+ 
+ ![Foto 4]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/4.jpg)
+ 
+ ![Foto 5]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/5.jpg)
+ 
+ ![Foto 6]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/6.jpg)
+ 
+ ![Foto 7]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/7.jpg)
  
  
  
