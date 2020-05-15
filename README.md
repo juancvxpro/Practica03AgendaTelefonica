@@ -22,15 +22,40 @@ en las instrucciones de la práctica.**
  
  *Clases del paquete modelo*
  
+ [Usuario]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/modelo/Usuario.java)
+ 
+ [Telefono]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/modelo/Telefono.java)
+ 
  *Clases del paquete vista*
+ 
+ [VistaUsuario]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/vista/VistaUsuario.java)
+  
+ [VistaTelefono]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/vista/VistaTelefono.java)
  
  *Clases del paquete controlador*
  
+  [controladorUsuario]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/controlador/ControladorUsuario.java)
+  
+  [controladorTelefono]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/controlador/ControladorTelefono.java)
+ 
  *Clases del paquete IDAO*
+ 
+ [IUsuarioDao]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/idao/IUsuarioDao.java)
+ 
+ [ITelefonoDao]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/idao/ITelefonoDao.java)
+ 
  
  *Clases del paquete DAO*
  
+ [UsuarioDao]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/dao/UsuarioDao.java)
+ 
+ [TelefonoDao]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/dao/TelefonoDao.java)
+ 
  *Clase del paquete test*
+ 
+  [Prueba]:(https://github.com/juancvxpro/Practica03AgendaTelefonica/blob/master/src/ec/edu/ups/test/Prueba.java)
+ 
+ 
  
  
  
