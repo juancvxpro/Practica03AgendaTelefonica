@@ -14,8 +14,7 @@ DAO”**
 ![Foto del repositorio creado]:(https://github.com/juancvxpro/ScreenshotsPractica03CordovaJuan/blob/master/repositorio.jpg)
 
 **2.  Desarrollar una aplicación en Java para gestionar una agenda telefónica según los requerimientos planteados
-en las instrucciones de la práctica.
-**
+en las instrucciones de la práctica.**
 
 *Paquetes del proyecto*
 
